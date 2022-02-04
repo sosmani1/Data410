@@ -2,8 +2,7 @@
 
 ![](https://predictivemedicine.northwell.edu/app/uploads/2021/04/osmani_headshot.jpg "SohebOsmani")
 
-Bio
-:  I'm a senior studying Data Science and Economics. I'm from NYC. I love yams and munchkins. 
+Bio: I'm a senior studying Data Science and Economics. I'm from NYC. I love yams and munchkins. 
 
 Here are *two truths and a lie* about me
 
@@ -23,3 +22,4 @@ from math import ceil
 from scipy import linalg
 import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
+```
