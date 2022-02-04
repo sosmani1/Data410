@@ -1,4 +1,4 @@
-## Welcome to my GitHub page fo rAdvanced Machine Learning
+## Welcome to my GitHub page for Advanced Machine Learning
 
 ![](https://predictivemedicine.northwell.edu/app/uploads/2021/04/osmani_headshot.jpg "SohebOsmani")
 
